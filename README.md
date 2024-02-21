@@ -1,6 +1,12 @@
 # empresa_transporte
 
-## Objetivo Principal
+## Integrantes:
+- SULCA MAMANI IVAN FRANK
+- FLORES CALLE, LIDER JACOBY
+- OCHOA QUISPE ARNOLD JHERICO
+- ZAMUDIO BALABARCA AMERICO MARCELO
+
+## Objetivo Principal:
 Lograr la automatización de los datos contenidos en las guías de remisión con el fin
 de mejorar la gestión y búsqueda de estos documentos, logrando una mayor eficacia
 en las operaciones de la empresa.
